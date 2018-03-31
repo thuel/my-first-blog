@@ -25,7 +25,7 @@ SECRET_KEY = '!0vdd2zz9v007l3azt4en%k309uxh!*6q#t@oe4i7%x!#9i+jt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'nbahn.steffen-steffen.ch']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'thuel.pythonanywhere.com']
 
 
 # Application definition
